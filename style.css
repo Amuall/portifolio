@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 300vh;
+}
+header {
+    margin-top: -20px;
+    background-color: green;
+    height: 80px;
+}
+header img {
+    height: 80px;
+    border-radius: 50px;
+    margin-top: -50px;
+}
+h2 {
+    margin-left: 100px;
+}
+nav {
+   margin-left: 600px;
+   margin-top: -80px;
+   text-decoration: none;
+}
+li {
+    list-style:none ;
+    margin-left: 50px;
+   
+}
+ul {
+    display: flex;
+}
+body {
+    background-image: url(caption\ \(3\).jpg);
+    background-repeat: no-repeat;
+
+}
+.first {
+    margin-left: 550px;
+    margin-top: 300px;
+    color: aliceblue;
+} 
+.bold {
+    text-align: center;
+padding: 2rem;
+    margin-top: 600px;
+}
+.bold h1 {
+    
+}
+.sec {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 1.5rem;
+margin-top: 1rem;
+}
+.dic {
+background: white;
+border-radius: 10px;
+box-shadow: 0 2px 8px slategray;
+overflow: hidden;
+width: 250px;
+transition: transform 0.3s ease;
+
+}
+.big {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px slategray;
+    overflow: hidden;
+    width: 250px;
+    transition: transform 0.3s ease;
+    }
+.dic img {
+    height: 150px;
+    width: 100%;
+}
+.vec {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px slategray;
+    overflow: hidden;
+    width: 250px;
+    transition: transform 0.3s ease;
+}
+.wec {
+ background: white;
+border-radius: 10px;
+box-shadow: 0 2px 8px slategray;
+overflow: hidden;
+width: 250px;
+transition: transform 0.3s ease;
+}
+.vec img {
+    height: 150px;
+    width: 100%; 
+}
+.wec img {
+    height: 150px;
+    width: 100%;
+}
